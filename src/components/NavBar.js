@@ -48,7 +48,7 @@ function NavBar() {
           left: -40px;
           position: absolute;
           top: 0;
-          height: 100000%;
+          height: 100%;
           z-index: 1;
         `}
         transition={{ delay: 0.05 }}
